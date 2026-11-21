@@ -1,0 +1,1054 @@
+LOCUS       NG_012232            2227382 bp    DNA     linear   PRI 20-NOV-2025
+DEFINITION  Homo sapiens dystrophin (DMD), RefSeqGene (LRG_199) on chromosome
+            X.
+ACCESSION   NG_012232
+VERSION     NG_012232.1
+KEYWORDS    RefSeq; RefSeqGene.
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (bases 1 to 2227382)
+  AUTHORS   Achermann,J.C. and Vilain,E.J.
+  TITLE     NR0B1-Related Adrenal Hypoplasia Congenita
+  JOURNAL   (in) Adam MP, Bick S, Mirzaa GM, Pagon RA, Wallace SE and Amemiya A
+            (Eds.);
+            GENEREVIEWS(R);
+            (1993)
+   PUBMED   20301604
+REFERENCE   2  (bases 1 to 2227382)
+  AUTHORS   Hershberger,R.E. and Jordan,E.
+  TITLE     Dilated Cardiomyopathy Overview
+  JOURNAL   (in) Adam MP, Bick S, Mirzaa GM, Pagon RA, Wallace SE and Amemiya A
+            (Eds.);
+            GENEREVIEWS(R);
+            (1993)
+   PUBMED   20301486
+REFERENCE   3  (bases 1 to 2227382)
+  AUTHORS   Darras,B.T., Urion,D.K. and Ghosh,P.S.
+  TITLE     Dystrophinopathies
+  JOURNAL   (in) Adam MP, Bick S, Mirzaa GM, Pagon RA, Wallace SE and Amemiya A
+            (Eds.);
+            GENEREVIEWS(R);
+            (1993)
+   PUBMED   20301298
+REFERENCE   4  (bases 1 to 2227382)
+  AUTHORS   Koenig,M., Monaco,A.P. and Kunkel,L.M.
+  TITLE     The complete sequence of dystrophin predicts a rod-shaped
+            cytoskeletal protein
+  JOURNAL   Cell 53 (2), 219-228 (1988)
+   PUBMED   3282674
+COMMENT     REVIEWED REFSEQ: This record has been curated by NCBI staff in
+            collaboration with Johan den Dunnen. The reference sequence was
+            derived from AL050305.9, AL031643.1, AL049643.12, AL139401.14,
+            AL451144.5, AL121880.21, AL096699.11, AC004468.1, AL596023.2,
+            AL031542.1, AL109609.5, AL139278.12, AC096506.5, AC078957.16,
+            AC093193.11, AC079864.22, AC093167.11, AC079175.24, AC079177.21,
+            AC090632.13, AC078958.30, AC079143.17 and AC006061.1.
+            This sequence is a reference standard in the RefSeqGene project.
+            
+            Summary: This gene spans a genomic range of greater than 2 Mb and
+            encodes a large protein containing an N-terminal actin-binding
+            domain and multiple spectrin repeats. The encoded protein forms a
+            component of the dystrophin-glycoprotein complex (DGC), which
+            bridges the inner cytoskeleton and the extracellular matrix.
+            Deletions, duplications, and point mutations at this gene locus may
+            cause Duchenne muscular dystrophy (DMD), Becker muscular dystrophy
+            (BMD), or cardiomyopathy. Alternative promoter usage and
+            alternative splicing result in numerous distinct transcript
+            variants and protein isoforms for this gene. [provided by RefSeq,
+            Dec 2016].
+PRIMARY     REFSEQ_SPAN         PRIMARY_IDENTIFIER PRIMARY_SPAN        COMP
+            1-19933             AL050305.9         101-20033           c
+            19934-153721        AL031643.1         102-133889          c
+            153722-272316       AL049643.12        101-118695          c
+            272317-288608       AL139401.14        101-16392           c
+            288609-388715       AL451144.5         101-100207          c
+            388716-475680       AL121880.21        101-87065           c
+            475681-665463       AL096699.11        13224-203006        c
+            665464-791218       AC004468.1         2-125756
+            791219-793214       AL596023.2         2001-3996           c
+            793215-859532       AL031542.1         65973-132290        c
+            859533-859533       "G"                1-1
+            859534-925404       AL031542.1         101-65971           c
+            925405-1034402      AL109609.5         101-109098          c
+            1034403-1053664     AL139278.12        76605-95866         c
+            1053665-1171793     AC096506.5         2007-120135         c
+            1171794-1368791     AC078957.16        2-196999
+            1368792-1449146     AC093193.11        2647-83001          c
+            1449147-1469419     AC079864.22        141602-161874       c
+            1469420-1469420     "C"                1-1
+            1469421-1609451     AC079864.22        1570-141600         c
+            1609452-1682381     AC093167.11        2072-75001          c
+            1682382-1843578     AC079175.24        2-161198
+            1843579-1866376     AC079177.21        132736-155533       c
+            1866377-1866377     "A"                1-1
+            1866378-1997103     AC079177.21        2009-132734         c
+            1997104-2029476     AC090632.13        1-32373
+            2029477-2215021     AC078958.30        2002-187546         c
+            2215022-2218326     AC079143.17        1999-5303           c
+            2218327-2227382     AC006061.1         89001-98056         c
+FEATURES             Location/Qualifiers
+     source          1..2227382
+                     /organism="Homo sapiens"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:9606"
+                     /chromosome="X"
+                     /map="Xp21.2-p21.1"
+     gene            5001..2225382
+                     /gene="DMD"
+                     /gene_synonym="BMD; CMD3B; DXS142; DXS164; DXS206; DXS230;
+                     DXS239; DXS268; DXS269; DXS270; DXS272; MRX85"
+                     /note="dystrophin"
+                     /db_xref="GeneID:1756"
+                     /db_xref="HGNC:HGNC:2928"
+                     /db_xref="MIM:300377"
+     mRNA            join(133054..133328,324410..324471,494790..494882,
+                     499750..499827,521223..521315,527970..528142,
+                     534999..535117,645317..645498,646612..646740,
+                     699458..699646,700297..700478,730157..730307,
+                     748734..748853,770764..770865,770973..771080,
+                     778729..778908,799276..799451,826479..826602,
+                     842768..842855,853092..853333,859511..859691,
+                     872301..872446,875900..876112,879911..880024,
+                     881016..881171,889778..889948,895972..896154,
+                     903296..903430,906220..906369,932697..932858,
+                     954429..954539,954936..955109,958145..958300,
+                     963930..964100,979411..979590,979900..980028,
+                     981652..981822,996082..996204,998530..998667,
+                     1001324..1001476,1002328..1002510,1034334..1034528,
+                     1056909..1057081,1127547..1127694,1376096..1376271,
+                     1412383..1412530,1414865..1415014,1469237..1469422,
+                     1507791..1507892,1524527..1524635,1570418..1570650,
+                     1614862..1614979,1665024..1665235,1686466..1686620,
+                     1716748..1716937,1837157..1837329,1847666..1847822,
+                     1865507..1865627,1866236..1866504,1899983..1900129,
+                     1995976..1996054,2020952..2021012,2083594..2083655,
+                     2121489..2121563,2134911..2135112,2137943..2138028,
+                     2140492..2140649,2161706..2161872,2164129..2164240,
+                     2165805..2165941,2166640..2166678,2171006..2171071,
+                     2172197..2172262,2175009..2175167,2197092..2197335,
+                     2198196..2198319,2210416..2210508,2217937..2217968,
+                     2222680..2225382)
+                     /gene="DMD"
+                     /gene_synonym="BMD; CMD3B; DXS142; DXS164; DXS206; DXS230;
+                     DXS239; DXS268; DXS269; DXS270; DXS272; MRX85"
+                     /product="dystrophin, transcript variant Dp427m"
+                     /transcript_id="NM_004006.2"
+                     /db_xref="GeneID:1756"
+                     /db_xref="LRG:t1"
+                     /db_xref="HGNC:HGNC:2928"
+                     /db_xref="MIM:300377"
+     exon            133054..133328
+                     /gene="DMD"
+                     /gene_synonym="BMD; CMD3B; DXS142; DXS164; DXS206; DXS230;
+                     DXS239; DXS268; DXS269; DXS270; DXS272; MRX85"
+                     /inference="alignment:Splign:1.39.8"
+                     /number=1
+     CDS             join(133298..133328,324410..324471,494790..494882,
+                     499750..499827,521223..521315,527970..528142,
+                     534999..535117,645317..645498,646612..646740,
+                     699458..699646,700297..700478,730157..730307,
+                     748734..748853,770764..770865,770973..771080,
+                     778729..778908,799276..799451,826479..826602,
+                     842768..842855,853092..853333,859511..859691,
+                     872301..872446,875900..876112,879911..880024,
+                     881016..881171,889778..889948,895972..896154,
+                     903296..903430,906220..906369,932697..932858,
+                     954429..954539,954936..955109,958145..958300,
+                     963930..964100,979411..979590,979900..980028,
+                     981652..981822,996082..996204,998530..998667,
+                     1001324..1001476,1002328..1002510,1034334..1034528,
+                     1056909..1057081,1127547..1127694,1376096..1376271,
+                     1412383..1412530,1414865..1415014,1469237..1469422,
+                     1507791..1507892,1524527..1524635,1570418..1570650,
+                     1614862..1614979,1665024..1665235,1686466..1686620,
+                     1716748..1716937,1837157..1837329,1847666..1847822,
+                     1865507..1865627,1866236..1866504,1899983..1900129,
+                     1995976..1996054,2020952..2021012,2083594..2083655,
+                     2121489..2121563,2134911..2135112,2137943..2138028,
+                     2140492..2140649,2161706..2161872,2164129..2164240,
+                     2165805..2165941,2166640..2166678,2171006..2171071,
+                     2172197..2172262,2175009..2175167,2197092..2197335,
+                     2198196..2198319,2210416..2210508,2217937..2217968,
+                     2222680..2222691)
+                     /gene="DMD"
+                     /gene_synonym="BMD; CMD3B; DXS142; DXS164; DXS206; DXS230;
+                     DXS239; DXS268; DXS269; DXS270; DXS272; MRX85"
+                     /note="Dp427m isoform is encoded by transcript variant
+                     Dp427m"
+                     /codon_start=1
+                     /product="dystrophin isoform Dp427m"
+                     /protein_id="NP_003997.1"
+                     /db_xref="CCDS:CCDS14233.1"
+                     /db_xref="GeneID:1756"
+                     /db_xref="LRG:p1"
+                     /db_xref="HGNC:HGNC:2928"
+                     /db_xref="MIM:300377"
+                     /translation="MLWWEEVEDCYEREDVQKKTFTKWVNAQFSKFGKQHIENLFSDL
+                     QDGRRLLDLLEGLTGQKLPKEKGSTRVHALNNVNKALRVLQNNNVDLVNIGSTDIVDG
+                     NHKLTLGLIWNIILHWQVKNVMKNIMAGLQQTNSEKILLSWVRQSTRNYPQVNVINFT
+                     TSWSDGLALNALIHSHRPDLFDWNSVVCQQSATQRLEHAFNIARYQLGIEKLLDPEDV
+                     DTTYPDKKSILMYITSLFQVLPQQVSIEAIQEVEMLPRPPKVTKEEHFQLHHQMHYSQ
+                     QITVSLAQGYERTSSPKPRFKSYAYTQAAYVTTSDPTRSPFPSQHLEAPEDKSFGSSL
+                     MESEVNLDRYQTALEEVLSWLLSAEDTLQAQGEISNDVEVVKDQFHTHEGYMMDLTAH
+                     QGRVGNILQLGSKLIGTGKLSEDEETEVQEQMNLLNSRWECLRVASMEKQSNLHRVLM
+                     DLQNQKLKELNDWLTKTEERTRKMEEEPLGPDLEDLKRQVQQHKVLQEDLEQEQVRVN
+                     SLTHMVVVVDESSGDHATAALEEQLKVLGDRWANICRWTEDRWVLLQDILLKWQRLTE
+                     EQCLFSAWLSEKEDAVNKIHTTGFKDQNEMLSSLQKLAVLKADLEKKKQSMGKLYSLK
+                     QDLLSTLKNKSVTQKTEAWLDNFARCWDNLVQKLEKSTAQISQAVTTTQPSLTQTTVM
+                     ETVTTVTTREQILVKHAQEELPPPPPQKKRQITVDSEIRKRLDVDITELHSWITRSEA
+                     VLQSPEFAIFRKEGNFSDLKEKVNAIEREKAEKFRKLQDASRSAQALVEQMVNEGVNA
+                     DSIKQASEQLNSRWIEFCQLLSERLNWLEYQNNIIAFYNQLQQLEQMTTTAENWLKIQ
+                     PTTPSEPTAIKSQLKICKDEVNRLSGLQPQIERLKIQSIALKEKGQGPMFLDADFVAF
+                     TNHFKQVFSDVQAREKELQTIFDTLPPMRYQETMSAIRTWVQQSETKLSIPQLSVTDY
+                     EIMEQRLGELQALQSSLQEQQSGLYYLSTTVKEMSKKAPSEISRKYQSEFEEIEGRWK
+                     KLSSQLVEHCQKLEEQMNKLRKIQNHIQTLKKWMAEVDVFLKEEWPALGDSEILKKQL
+                     KQCRLLVSDIQTIQPSLNSVNEGGQKIKNEAEPEFASRLETELKELNTQWDHMCQQVY
+                     ARKEALKGGLEKTVSLQKDLSEMHEWMTQAEEEYLERDFEYKTPDELQKAVEEMKRAK
+                     EEAQQKEAKVKLLTESVNSVIAQAPPVAQEALKKELETLTTNYQWLCTRLNGKCKTLE
+                     EVWACWHELLSYLEKANKWLNEVEFKLKTTENIPGGAEEISEVLDSLENLMRHSEDNP
+                     NQIRILAQTLTDGGVMDELINEELETFNSRWRELHEEAVRRQKLLEQSIQSAQETEKS
+                     LHLIQESLTFIDKQLAAYIADKVDAAQMPQEAQKIQSDLTSHEISLEEMKKHNQGKEA
+                     AQRVLSQIDVAQKKLQDVSMKFRLFQKPANFEQRLQESKMILDEVKMHLPALETKSVE
+                     QEVVQSQLNHCVNLYKSLSEVKSEVEMVIKTGRQIVQKKQTENPKELDERVTALKLHY
+                     NELGAKVTERKQQLEKCLKLSRKMRKEMNVLTEWLAATDMELTKRSAVEGMPSNLDSE
+                     VAWGKATQKEIEKQKVHLKSITEVGEALKTVLGKKETLVEDKLSLLNSNWIAVTSRAE
+                     EWLNLLLEYQKHMETFDQNVDHITKWIIQADTLLDESEKKKPQQKEDVLKRLKAELND
+                     IRPKVDSTRDQAANLMANRGDHCRKLVEPQISELNHRFAAISHRIKTGKASIPLKELE
+                     QFNSDIQKLLEPLEAEIQQGVNLKEEDFNKDMNEDNEGTVKELLQRGDNLQQRITDER
+                     KREEIKIKQQLLQTKHNALKDLRSQRRKKALEISHQWYQYKRQADDLLKCLDDIEKKL
+                     ASLPEPRDERKIKEIDRELQKKKEELNAVRRQAEGLSEDGAAMAVEPTQIQLSKRWRE
+                     IESKFAQFRRLNFAQIHTVREETMMVMTEDMPLEISYVPSTYLTEITHVSQALLEVEQ
+                     LLNAPDLCAKDFEDLFKQEESLKNIKDSLQQSSGRIDIIHSKKTAALQSATPVERVKL
+                     QEALSQLDFQWEKVNKMYKDRQGRFDRSVEKWRRFHYDIKIFNQWLTEAEQFLRKTQI
+                     PENWEHAKYKWYLKELQDGIGQRQTVVRTLNATGEEIIQQSSKTDASILQEKLGSLNL
+                     RWQEVCKQLSDRKKRLEEQKNILSEFQRDLNEFVLWLEEADNIASIPLEPGKEQQLKE
+                     KLEQVKLLVEELPLRQGILKQLNETGGPVLVSAPISPEEQDKLENKLKQTNLQWIKVS
+                     RALPEKQGEIEAQIKDLGQLEKKLEDLEEQLNHLLLWLSPIRNQLEIYNQPNQEGPFD
+                     VQETEIAVQAKQPDVEEILSKGQHLYKEKPATQPVKRKLEDLSSEWKAVNRLLQELRA
+                     KQPDLAPGLTTIGASPTQTVTLVTQPVVTKETAISKLEMPSSLMLEVPALADFNRAWT
+                     ELTDWLSLLDQVIKSQRVMVGDLEDINEMIIKQKATMQDLEQRRPQLEELITAAQNLK
+                     NKTSNQEARTIITDRIERIQNQWDEVQEHLQNRRQQLNEMLKDSTQWLEAKEEAEQVL
+                     GQARAKLESWKEGPYTVDAIQKKITETKQLAKDLRQWQTNVDVANDLALKLLRDYSAD
+                     DTRKVHMITENINASWRSIHKRVSEREAALEETHRLLQQFPLDLEKFLAWLTEAETTA
+                     NVLQDATRKERLLEDSKGVKELMKQWQDLQGEIEAHTDVYHNLDENSQKILRSLEGSD
+                     DAVLLQRRLDNMNFKWSELRKKSLNIRSHLEASSDQWKRLHLSLQELLVWLQLKDDEL
+                     SRQAPIGGDFPAVQKQNDVHRAFKRELKTKEPVIMSTLETVRIFLTEQPLEGLEKLYQ
+                     EPRELPPEERAQNVTRLLRKQAEEVNTEWEKLNLHSADWQRKIDETLERLQELQEATD
+                     ELDLKLRQAEVIKGSWQPVGDLLIDSLQDHLEKVKALRGEIAPLKENVSHVNDLARQL
+                     TTLGIQLSPYNLSTLEDLNTRWKLLQVAVEDRVRQLHEAHRDFGPASQHFLSTSVQGP
+                     WERAISPNKVPYYINHETQTTCWDHPKMTELYQSLADLNNVRFSAYRTAMKLRRLQKA
+                     LCLDLLSLSAACDALDQHNLKQNDQPMDILQIINCLTTIYDRLEQEHNNLVNVPLCVD
+                     MCLNWLLNVYDTGRTGRIRVLSFKTGIISLCKAHLEDKYRYLFKQVASSTGFCDQRRL
+                     GLLLHDSIQIPRQLGEVASFGGSNIEPSVRSCFQFANNKPEIEAALFLDWMRLEPQSM
+                     VWLPVLHRVAAAETAKHQAKCNICKECPIIGFRYRSLKHFNYDICQSCFFSGRVAKGH
+                     KMHYPMVEYCTPTTSGEDVRDFAKVLKNKFRTKRYFAKHPRMGYLPVQTVLEGDNMET
+                     PVTLINFWPVDSAPASSPQLSHDDTHSRIEHYASRLAEMENSNGSYLNDSISPNESID
+                     DEHLLIQHYCQSLNQDSPLSQPRSPAQILISLESEERGELERILADLEEENRNLQAEY
+                     DRLKQQHEHKGLSPLPSPPEMMPTSPQSPRDAELIAEAKLLRQHKGRLEARMQILEDH
+                     NKQLESQLHRLRQLLEQPQAEAKVNGTTVSSPSTSLQRSDSSQPMLLRVVGSQTSDSM
+                     GEEDLLSPPQDTSTGLEEVMEQLNNSFPSSRGRNTPGKPMREDTM"
+     misc_feature    join(133298..133328,324410..324411)
+                     /gene="DMD"
+                     /gene_synonym="BMD; CMD3B; DXS142; DXS164; DXS206; DXS230;
+                     DXS239; DXS268; DXS269; DXS270; DXS272; MRX85"
+                     /note="Region: dystrophin Dp427m unique N-terminus"
+     misc_feature    join(324412..324471,494790..494882,499750..499827,
+                     521223..521315,527970..528142,534999..535117,
+                     645317..645387)
+                     /gene="DMD"
+                     /gene_synonym="BMD; CMD3B; DXS142; DXS164; DXS206; DXS230;
+                     DXS239; DXS268; DXS269; DXS270; DXS272; MRX85"
+                     /note="Region: Actin binding domain"
+     misc_feature    join(645424..645498,646612..646740,699458..699646,
+                     700297..700478,730157..730307,748734..748853,
+                     770764..770865,770973..771080,778729..778908,
+                     799276..799451,826479..826602,842768..842855,
+                     853092..853333,859511..859691,872301..872446,
+                     875900..876112,879911..880024,881016..881171,
+                     889778..889948,895972..896154,903296..903430,
+                     906220..906369,932697..932858,954429..954539,
+                     954936..955109,958145..958300,963930..964100,
+                     979411..979590,979900..980028,981652..981822,
+                     996082..996204,998530..998667,1001324..1001476,
+                     1002328..1002510,1034334..1034528,1056909..1057081,
+                     1127547..1127694,1376096..1376271,1412383..1412530,
+                     1414865..1415014,1469237..1469422,1507791..1507892,
+                     1524527..1524635,1570418..1570650,1614862..1614979,
+                     1665024..1665235,1686466..1686620,1716748..1716937,
+                     1837157..1837329,1847666..1847822,1865507..1865627,
+                     1866236..1866504,1899983..1900129,1995976..1996011)
+                     /gene="DMD"
+                     /gene_synonym="BMD; CMD3B; DXS142; DXS164; DXS206; DXS230;
+                     DXS239; DXS268; DXS269; DXS270; DXS272; MRX85"
+                     /note="Region: central rod domain"
+     misc_feature    join(645424..645498,646612..646740,699458..699478)
+                     /gene="DMD"
+                     /gene_synonym="BMD; CMD3B; DXS142; DXS164; DXS206; DXS230;
+                     DXS239; DXS268; DXS269; DXS270; DXS272; MRX85"
+                     /note="Region: hinge region 1"
+     misc_feature    join(699506..699646,700297..700478,730157..730166)
+                     /gene="DMD"
+                     /gene_synonym="BMD; CMD3B; DXS142; DXS164; DXS206; DXS230;
+                     DXS239; DXS268; DXS269; DXS270; DXS272; MRX85"
+                     /note="Region: repeat region 1"
+     misc_feature    join(730167..730307,748734..748853,770764..770829)
+                     /gene="DMD"
+                     /gene_synonym="BMD; CMD3B; DXS142; DXS164; DXS206; DXS230;
+                     DXS239; DXS268; DXS269; DXS270; DXS272; MRX85"
+                     /note="Region: repeat region 2"
+     misc_feature    join(770830..770865,770973..771080,778729..778908,
+                     799276..799284)
+                     /gene="DMD"
+                     /gene_synonym="BMD; CMD3B; DXS142; DXS164; DXS206; DXS230;
+                     DXS239; DXS268; DXS269; DXS270; DXS272; MRX85"
+                     /note="Region: repeat region 3"
+     misc_feature    799285..799434
+                     /gene="DMD"
+                     /gene_synonym="BMD; CMD3B; DXS142; DXS164; DXS206; DXS230;
+                     DXS239; DXS268; DXS269; DXS270; DXS272; MRX85"
+                     /note="Region: hinge region 2"
+     misc_feature    join(799435..799451,826479..826602,842768..842855,
+                     853092..853195)
+                     /gene="DMD"
+                     /gene_synonym="BMD; CMD3B; DXS142; DXS164; DXS206; DXS230;
+                     DXS239; DXS268; DXS269; DXS270; DXS272; MRX85"
+                     /note="Region: repeat region 4"
+     misc_feature    join(853196..853333,859511..859690)
+                     /gene="DMD"
+                     /gene_synonym="BMD; CMD3B; DXS142; DXS164; DXS206; DXS230;
+                     DXS239; DXS268; DXS269; DXS270; DXS272; MRX85"
+                     /note="Region: repeat region 5"
+     misc_feature    join(859691,872301..872446,875900..876085)
+                     /gene="DMD"
+                     /gene_synonym="BMD; CMD3B; DXS142; DXS164; DXS206; DXS230;
+                     DXS239; DXS268; DXS269; DXS270; DXS272; MRX85"
+                     /note="Region: repeat region 6"
+     misc_feature    join(876086..876112,879911..880024,881016..881171,
+                     889778..889807)
+                     /gene="DMD"
+                     /gene_synonym="BMD; CMD3B; DXS142; DXS164; DXS206; DXS230;
+                     DXS239; DXS268; DXS269; DXS270; DXS272; MRX85"
+                     /note="Region: repeat region 7"
+     misc_feature    join(889808..889948,895972..896154,903296..903298)
+                     /gene="DMD"
+                     /gene_synonym="BMD; CMD3B; DXS142; DXS164; DXS206; DXS230;
+                     DXS239; DXS268; DXS269; DXS270; DXS272; MRX85"
+                     /note="Region: repeat region 8"
+     misc_feature    join(903299..903430,906220..906369,932697..932726)
+                     /gene="DMD"
+                     /gene_synonym="BMD; CMD3B; DXS142; DXS164; DXS206; DXS230;
+                     DXS239; DXS268; DXS269; DXS270; DXS272; MRX85"
+                     /note="Region: repeat region 9"
+     misc_feature    join(932727..932858,954429..954539,954936..954980)
+                     /gene="DMD"
+                     /gene_synonym="BMD; CMD3B; DXS142; DXS164; DXS206; DXS230;
+                     DXS239; DXS268; DXS269; DXS270; DXS272; MRX85"
+                     /note="Region: repeat region 10"
+     misc_feature    join(954972..955109,958145..958300,963930..963959)
+                     /gene="DMD"
+                     /gene_synonym="BMD; CMD3B; DXS142; DXS164; DXS206; DXS230;
+                     DXS239; DXS268; DXS269; DXS270; DXS272; MRX85"
+                     /note="Region: repeat region 11"
+     misc_feature    join(963960..964100,979411..979590,979900..979902)
+                     /gene="DMD"
+                     /gene_synonym="BMD; CMD3B; DXS142; DXS164; DXS206; DXS230;
+                     DXS239; DXS268; DXS269; DXS270; DXS272; MRX85"
+                     /note="Region: repeat region 12"
+     misc_feature    join(979903..980028,981652..981822,996082..996090)
+                     /gene="DMD"
+                     /gene_synonym="BMD; CMD3B; DXS142; DXS164; DXS206; DXS230;
+                     DXS239; DXS268; DXS269; DXS270; DXS272; MRX85"
+                     /note="Region: repeat region 13"
+     misc_feature    join(996091..996204,998530..998667,1001324..1001359)
+                     /gene="DMD"
+                     /gene_synonym="BMD; CMD3B; DXS142; DXS164; DXS206; DXS230;
+                     DXS239; DXS268; DXS269; DXS270; DXS272; MRX85"
+                     /note="Region: repeat region 14"
+     misc_feature    join(1001360..1001476,1002328..1002507)
+                     /gene="DMD"
+                     /gene_synonym="BMD; CMD3B; DXS142; DXS164; DXS206; DXS230;
+                     DXS239; DXS268; DXS269; DXS270; DXS272; MRX85"
+                     /note="Region: repeat region 15"
+     misc_feature    join(1034385..1034528,1056909..1057081,1127547..1127559)
+                     /gene="DMD"
+                     /gene_synonym="BMD; CMD3B; DXS142; DXS164; DXS206; DXS230;
+                     DXS239; DXS268; DXS269; DXS270; DXS272; MRX85"
+                     /note="Region: repeat region 16"
+     misc_feature    join(1127560..1127694,1376096..1376271,1412383..1412392)
+                     /gene="DMD"
+                     /gene_synonym="BMD; CMD3B; DXS142; DXS164; DXS206; DXS230;
+                     DXS239; DXS268; DXS269; DXS270; DXS272; MRX85"
+                     /note="Region: repeat region 17"
+     misc_feature    join(1412393..1412530,1414865..1415014,1469237..1469278)
+                     /gene="DMD"
+                     /gene_synonym="BMD; CMD3B; DXS142; DXS164; DXS206; DXS230;
+                     DXS239; DXS268; DXS269; DXS270; DXS272; MRX85"
+                     /note="Region: repeat region 18"
+     misc_feature    join(1469279..1469422,1507791..1507892,1524527..1524595)
+                     /gene="DMD"
+                     /gene_synonym="BMD; CMD3B; DXS142; DXS164; DXS206; DXS230;
+                     DXS239; DXS268; DXS269; DXS270; DXS272; MRX85"
+                     /note="Region: repeat region 19"
+     misc_feature    join(1524596..1524635,1570418..1570518)
+                     /gene="DMD"
+                     /gene_synonym="BMD; CMD3B; DXS142; DXS164; DXS206; DXS230;
+                     DXS239; DXS268; DXS269; DXS270; DXS272; MRX85"
+                     /note="Region: hinge region 3"
+     misc_feature    join(1570519..1570650,1614862..1614979,1665024..1665094)
+                     /gene="DMD"
+                     /gene_synonym="BMD; CMD3B; DXS142; DXS164; DXS206; DXS230;
+                     DXS239; DXS268; DXS269; DXS270; DXS272; MRX85"
+                     /note="Region: repeat region 20"
+     misc_feature    join(1665095..1665235,1686466..1686620,1716748..1716778)
+                     /gene="DMD"
+                     /gene_synonym="BMD; CMD3B; DXS142; DXS164; DXS206; DXS230;
+                     DXS239; DXS268; DXS269; DXS270; DXS272; MRX85"
+                     /note="Region: repeat region 21"
+     misc_feature    join(1716779..1716937,1837157..1837329,1847666..1847681)
+                     /gene="DMD"
+                     /gene_synonym="BMD; CMD3B; DXS142; DXS164; DXS206; DXS230;
+                     DXS239; DXS268; DXS269; DXS270; DXS272; MRX85"
+                     /note="Region: repeat region 22"
+     misc_feature    join(1847682..1847822,1865507..1865627,1866236..1866360)
+                     /gene="DMD"
+                     /gene_synonym="BMD; CMD3B; DXS142; DXS164; DXS206; DXS230;
+                     DXS239; DXS268; DXS269; DXS270; DXS272; MRX85"
+                     /note="Region: repeat region 23"
+     misc_feature    join(1866361..1866504,1899983..1900129,1995976..1996011)
+                     /gene="DMD"
+                     /gene_synonym="BMD; CMD3B; DXS142; DXS164; DXS206; DXS230;
+                     DXS239; DXS268; DXS269; DXS270; DXS272; MRX85"
+                     /note="Region: repeat region 24"
+     misc_feature    join(1900085..1900129,1995976..1996054,2020952..2021012,
+                     2083594..2083655,2121489..2121538)
+                     /gene="DMD"
+                     /gene_synonym="BMD; CMD3B; DXS142; DXS164; DXS206; DXS230;
+                     DXS239; DXS268; DXS269; DXS270; DXS272; MRX85"
+                     /note="Region: hinge region 4"
+     misc_feature    join(2020954..2021012,2083594..2083645)
+                     /gene="DMD"
+                     /gene_synonym="BMD; CMD3B; DXS142; DXS164; DXS206; DXS230;
+                     DXS239; DXS268; DXS269; DXS270; DXS272; MRX85"
+                     /note="Region: WW-domain"
+     misc_feature    join(2083607..2083655,2121489..2121563,2134911..2135112,
+                     2137943..2138028,2140492..2140649,2161706..2161872,
+                     2164129..2164240,2165805..2165941,2166640)
+                     /gene="DMD"
+                     /gene_synonym="BMD; CMD3B; DXS142; DXS164; DXS206; DXS230;
+                     DXS239; DXS268; DXS269; DXS270; DXS272; MRX85"
+                     /note="dystroglycan binding site"
+     misc_feature    join(2121500..2121563,2134911..2135112,2137943..2138028,
+                     2140492..2140649,2161706..2161798)
+                     /gene="DMD"
+                     /gene_synonym="BMD; CMD3B; DXS142; DXS164; DXS206; DXS230;
+                     DXS239; DXS268; DXS269; DXS270; DXS272; MRX85"
+                     /note="Region: Cysteine-rich domain"
+     misc_feature    2134937..2135020
+                     /gene="DMD"
+                     /gene_synonym="BMD; CMD3B; DXS142; DXS164; DXS206; DXS230;
+                     DXS239; DXS268; DXS269; DXS270; DXS272; MRX85"
+                     /note="Region: EF-hand 1"
+     misc_feature    join(2135081..2135112,2137943..2137997)
+                     /gene="DMD"
+                     /gene_synonym="BMD; CMD3B; DXS142; DXS164; DXS206; DXS230;
+                     DXS239; DXS268; DXS269; DXS270; DXS272; MRX85"
+                     /note="Region: EF-hand 2"
+     misc_feature    join(2161796..2161872,2164129..2164240,2165805..2165941,
+                     2166640..2166678,2171006..2171071,2172197..2172262,
+                     2175009..2175167,2197092..2197335,2198196..2198319,
+                     2210416..2210508,2217937..2217968,2222680..2222688)
+                     /gene="DMD"
+                     /gene_synonym="BMD; CMD3B; DXS142; DXS164; DXS206; DXS230;
+                     DXS239; DXS268; DXS269; DXS270; DXS272; MRX85"
+                     /note="Region: Carboxy-terminal region"
+     misc_feature    join(2161817..2161872,2164129..2164216)
+                     /gene="DMD"
+                     /gene_synonym="BMD; CMD3B; DXS142; DXS164; DXS206; DXS230;
+                     DXS239; DXS268; DXS269; DXS270; DXS272; MRX85"
+                     /note="Region: ZZ-domain"
+     misc_feature    join(2172198..2172262,2175009..2175096)
+                     /gene="DMD"
+                     /gene_synonym="BMD; CMD3B; DXS142; DXS164; DXS206; DXS230;
+                     DXS239; DXS268; DXS269; DXS270; DXS272; MRX85"
+                     /note="alpha1-syntrophin binding site"
+     misc_feature    join(2175097..2175167,2197092..2197143)
+                     /gene="DMD"
+                     /gene_synonym="BMD; CMD3B; DXS142; DXS164; DXS206; DXS230;
+                     DXS239; DXS268; DXS269; DXS270; DXS272; MRX85"
+                     /note="beta1-syntrophin binding site"
+     misc_feature    2197210..2197317
+                     /gene="DMD"
+                     /gene_synonym="BMD; CMD3B; DXS142; DXS164; DXS206; DXS230;
+                     DXS239; DXS268; DXS269; DXS270; DXS272; MRX85"
+                     /note="Region: (Leu)6-heptad repeat"
+     gene            complement(302712..303297)
+                     /gene="TBCAP1"
+                     /note="tubulin folding cofactor A pseudogene 1"
+                     /pseudo
+                     /db_xref="GeneID:494540"
+                     /db_xref="HGNC:HGNC:42630"
+     exon            324410..324471
+                     /gene="DMD"
+                     /gene_synonym="BMD; CMD3B; DXS142; DXS164; DXS206; DXS230;
+                     DXS239; DXS268; DXS269; DXS270; DXS272; MRX85"
+                     /inference="alignment:Splign:1.39.8"
+                     /number=2
+     exon            494790..494882
+                     /gene="DMD"
+                     /gene_synonym="BMD; CMD3B; DXS142; DXS164; DXS206; DXS230;
+                     DXS239; DXS268; DXS269; DXS270; DXS272; MRX85"
+                     /inference="alignment:Splign:1.39.8"
+                     /number=3
+     exon            499750..499827
+                     /gene="DMD"
+                     /gene_synonym="BMD; CMD3B; DXS142; DXS164; DXS206; DXS230;
+                     DXS239; DXS268; DXS269; DXS270; DXS272; MRX85"
+                     /inference="alignment:Splign:1.39.8"
+                     /number=4
+     exon            521223..521315
+                     /gene="DMD"
+                     /gene_synonym="BMD; CMD3B; DXS142; DXS164; DXS206; DXS230;
+                     DXS239; DXS268; DXS269; DXS270; DXS272; MRX85"
+                     /inference="alignment:Splign:1.39.8"
+                     /number=5
+     exon            527970..528142
+                     /gene="DMD"
+                     /gene_synonym="BMD; CMD3B; DXS142; DXS164; DXS206; DXS230;
+                     DXS239; DXS268; DXS269; DXS270; DXS272; MRX85"
+                     /inference="alignment:Splign:1.39.8"
+                     /number=6
+     exon            534999..535117
+                     /gene="DMD"
+                     /gene_synonym="BMD; CMD3B; DXS142; DXS164; DXS206; DXS230;
+                     DXS239; DXS268; DXS269; DXS270; DXS272; MRX85"
+                     /inference="alignment:Splign:1.39.8"
+                     /number=7
+     exon            645317..645498
+                     /gene="DMD"
+                     /gene_synonym="BMD; CMD3B; DXS142; DXS164; DXS206; DXS230;
+                     DXS239; DXS268; DXS269; DXS270; DXS272; MRX85"
+                     /inference="alignment:Splign:1.39.8"
+                     /number=8
+     exon            646612..646740
+                     /gene="DMD"
+                     /gene_synonym="BMD; CMD3B; DXS142; DXS164; DXS206; DXS230;
+                     DXS239; DXS268; DXS269; DXS270; DXS272; MRX85"
+                     /inference="alignment:Splign:1.39.8"
+                     /number=9
+     exon            699458..699646
+                     /gene="DMD"
+                     /gene_synonym="BMD; CMD3B; DXS142; DXS164; DXS206; DXS230;
+                     DXS239; DXS268; DXS269; DXS270; DXS272; MRX85"
+                     /inference="alignment:Splign:1.39.8"
+                     /number=10
+     exon            700297..700478
+                     /gene="DMD"
+                     /gene_synonym="BMD; CMD3B; DXS142; DXS164; DXS206; DXS230;
+                     DXS239; DXS268; DXS269; DXS270; DXS272; MRX85"
+                     /inference="alignment:Splign:1.39.8"
+                     /number=11
+     gene            703051..703136
+                     /gene="MIR548F5"
+                     /gene_synonym="hsa-mir-548f-5; MIR548F-5; MIRN548F5"
+                     /note="microRNA 548f-5"
+                     /db_xref="GeneID:100302239"
+                     /db_xref="HGNC:HGNC:35309"
+                     /db_xref="miRBase:MI0006378"
+     precursor_RNA   703051..703136
+                     /gene="MIR548F5"
+                     /gene_synonym="hsa-mir-548f-5; MIR548F-5; MIRN548F5"
+                     /product="microRNA 548f-5"
+                     /transcript_id="NR_031646.1"
+                     /db_xref="GeneID:100302239"
+                     /db_xref="HGNC:HGNC:35309"
+                     /db_xref="miRBase:MI0006378"
+     ncRNA           703102..703120
+                     /ncRNA_class="miRNA"
+                     /gene="MIR548F5"
+                     /gene_synonym="hsa-mir-548f-5; MIR548F-5; MIRN548F5"
+                     /product="hsa-miR-548f-3p"
+                     /db_xref="miRBase:MIMAT0005895"
+                     /db_xref="GeneID:100302239"
+                     /db_xref="HGNC:HGNC:35309"
+                     /db_xref="miRBase:MI0006378"
+     exon            730157..730307
+                     /gene="DMD"
+                     /gene_synonym="BMD; CMD3B; DXS142; DXS164; DXS206; DXS230;
+                     DXS239; DXS268; DXS269; DXS270; DXS272; MRX85"
+                     /inference="alignment:Splign:1.39.8"
+                     /number=12
+     exon            748734..748853
+                     /gene="DMD"
+                     /gene_synonym="BMD; CMD3B; DXS142; DXS164; DXS206; DXS230;
+                     DXS239; DXS268; DXS269; DXS270; DXS272; MRX85"
+                     /inference="alignment:Splign:1.39.8"
+                     /number=13
+     gene            760858..760954
+                     /gene="MIR3915"
+                     /note="microRNA 3915"
+                     /db_xref="GeneID:100500915"
+                     /db_xref="HGNC:HGNC:38955"
+                     /db_xref="miRBase:MI0016420"
+     precursor_RNA   760858..760954
+                     /gene="MIR3915"
+                     /product="microRNA 3915"
+                     /transcript_id="NR_037478.1"
+                     /db_xref="GeneID:100500915"
+                     /db_xref="HGNC:HGNC:38955"
+                     /db_xref="miRBase:MI0016420"
+     ncRNA           760878..760899
+                     /ncRNA_class="miRNA"
+                     /gene="MIR3915"
+                     /product="hsa-miR-3915"
+                     /db_xref="miRBase:MIMAT0018189"
+                     /db_xref="GeneID:100500915"
+                     /db_xref="HGNC:HGNC:38955"
+                     /db_xref="miRBase:MI0016420"
+     exon            770764..770865
+                     /gene="DMD"
+                     /gene_synonym="BMD; CMD3B; DXS142; DXS164; DXS206; DXS230;
+                     DXS239; DXS268; DXS269; DXS270; DXS272; MRX85"
+                     /inference="alignment:Splign:1.39.8"
+                     /number=14
+     exon            770973..771080
+                     /gene="DMD"
+                     /gene_synonym="BMD; CMD3B; DXS142; DXS164; DXS206; DXS230;
+                     DXS239; DXS268; DXS269; DXS270; DXS272; MRX85"
+                     /inference="alignment:Splign:1.39.8"
+                     /number=15
+     exon            778729..778908
+                     /gene="DMD"
+                     /gene_synonym="BMD; CMD3B; DXS142; DXS164; DXS206; DXS230;
+                     DXS239; DXS268; DXS269; DXS270; DXS272; MRX85"
+                     /inference="alignment:Splign:1.39.8"
+                     /number=16
+     exon            799276..799451
+                     /gene="DMD"
+                     /gene_synonym="BMD; CMD3B; DXS142; DXS164; DXS206; DXS230;
+                     DXS239; DXS268; DXS269; DXS270; DXS272; MRX85"
+                     /inference="alignment:Splign:1.39.8"
+                     /number=17
+     exon            826479..826602
+                     /gene="DMD"
+                     /gene_synonym="BMD; CMD3B; DXS142; DXS164; DXS206; DXS230;
+                     DXS239; DXS268; DXS269; DXS270; DXS272; MRX85"
+                     /inference="alignment:Splign:1.39.8"
+                     /number=18
+     exon            842768..842855
+                     /gene="DMD"
+                     /gene_synonym="BMD; CMD3B; DXS142; DXS164; DXS206; DXS230;
+                     DXS239; DXS268; DXS269; DXS270; DXS272; MRX85"
+                     /inference="alignment:Splign:1.39.8"
+                     /number=19
+     exon            853092..853333
+                     /gene="DMD"
+                     /gene_synonym="BMD; CMD3B; DXS142; DXS164; DXS206; DXS230;
+                     DXS239; DXS268; DXS269; DXS270; DXS272; MRX85"
+                     /inference="alignment:Splign:1.39.8"
+                     /number=20
+     exon            859511..859691
+                     /gene="DMD"
+                     /gene_synonym="BMD; CMD3B; DXS142; DXS164; DXS206; DXS230;
+                     DXS239; DXS268; DXS269; DXS270; DXS272; MRX85"
+                     /inference="alignment:Splign:1.39.8"
+                     /number=21
+     misc_difference 859533
+                     /gene="DMD"
+                     /gene_synonym="BMD; CMD3B; DXS142; DXS164; DXS206; DXS230;
+                     DXS239; DXS268; DXS269; DXS270; DXS272; MRX85"
+                     /note="This sequence differs from the reference genome
+                     assembly (NCBI Build 36) at this position. A was replaced
+                     by G to represent the standard allele identified by
+                     alignment of public cDNAs."
+                     /replace="a"
+     exon            872301..872446
+                     /gene="DMD"
+                     /gene_synonym="BMD; CMD3B; DXS142; DXS164; DXS206; DXS230;
+                     DXS239; DXS268; DXS269; DXS270; DXS272; MRX85"
+                     /inference="alignment:Splign:1.39.8"
+                     /number=22
+     exon            875900..876112
+                     /gene="DMD"
+                     /gene_synonym="BMD; CMD3B; DXS142; DXS164; DXS206; DXS230;
+                     DXS239; DXS268; DXS269; DXS270; DXS272; MRX85"
+                     /inference="alignment:Splign:1.39.8"
+                     /number=23
+     exon            879911..880024
+                     /gene="DMD"
+                     /gene_synonym="BMD; CMD3B; DXS142; DXS164; DXS206; DXS230;
+                     DXS239; DXS268; DXS269; DXS270; DXS272; MRX85"
+                     /inference="alignment:Splign:1.39.8"
+                     /number=24
+     exon            881016..881171
+                     /gene="DMD"
+                     /gene_synonym="BMD; CMD3B; DXS142; DXS164; DXS206; DXS230;
+                     DXS239; DXS268; DXS269; DXS270; DXS272; MRX85"
+                     /inference="alignment:Splign:1.39.8"
+                     /number=25
+     exon            889778..889948
+                     /gene="DMD"
+                     /gene_synonym="BMD; CMD3B; DXS142; DXS164; DXS206; DXS230;
+                     DXS239; DXS268; DXS269; DXS270; DXS272; MRX85"
+                     /inference="alignment:Splign:1.39.8"
+                     /number=26
+     exon            895972..896154
+                     /gene="DMD"
+                     /gene_synonym="BMD; CMD3B; DXS142; DXS164; DXS206; DXS230;
+                     DXS239; DXS268; DXS269; DXS270; DXS272; MRX85"
+                     /inference="alignment:Splign:1.39.8"
+                     /number=27
+     exon            903296..903430
+                     /gene="DMD"
+                     /gene_synonym="BMD; CMD3B; DXS142; DXS164; DXS206; DXS230;
+                     DXS239; DXS268; DXS269; DXS270; DXS272; MRX85"
+                     /inference="alignment:Splign:1.39.8"
+                     /number=28
+     exon            906220..906369
+                     /gene="DMD"
+                     /gene_synonym="BMD; CMD3B; DXS142; DXS164; DXS206; DXS230;
+                     DXS239; DXS268; DXS269; DXS270; DXS272; MRX85"
+                     /inference="alignment:Splign:1.39.8"
+                     /number=29
+     exon            932697..932858
+                     /gene="DMD"
+                     /gene_synonym="BMD; CMD3B; DXS142; DXS164; DXS206; DXS230;
+                     DXS239; DXS268; DXS269; DXS270; DXS272; MRX85"
+                     /inference="alignment:Splign:1.39.8"
+                     /number=30
+     exon            954429..954539
+                     /gene="DMD"
+                     /gene_synonym="BMD; CMD3B; DXS142; DXS164; DXS206; DXS230;
+                     DXS239; DXS268; DXS269; DXS270; DXS272; MRX85"
+                     /inference="alignment:Splign:1.39.8"
+                     /number=31
+     exon            954936..955109
+                     /gene="DMD"
+                     /gene_synonym="BMD; CMD3B; DXS142; DXS164; DXS206; DXS230;
+                     DXS239; DXS268; DXS269; DXS270; DXS272; MRX85"
+                     /inference="alignment:Splign:1.39.8"
+                     /number=32
+     exon            958145..958300
+                     /gene="DMD"
+                     /gene_synonym="BMD; CMD3B; DXS142; DXS164; DXS206; DXS230;
+                     DXS239; DXS268; DXS269; DXS270; DXS272; MRX85"
+                     /inference="alignment:Splign:1.39.8"
+                     /number=33
+     exon            963930..964100
+                     /gene="DMD"
+                     /gene_synonym="BMD; CMD3B; DXS142; DXS164; DXS206; DXS230;
+                     DXS239; DXS268; DXS269; DXS270; DXS272; MRX85"
+                     /inference="alignment:Splign:1.39.8"
+                     /number=34
+     exon            979411..979590
+                     /gene="DMD"
+                     /gene_synonym="BMD; CMD3B; DXS142; DXS164; DXS206; DXS230;
+                     DXS239; DXS268; DXS269; DXS270; DXS272; MRX85"
+                     /inference="alignment:Splign:1.39.8"
+                     /number=35
+     exon            979900..980028
+                     /gene="DMD"
+                     /gene_synonym="BMD; CMD3B; DXS142; DXS164; DXS206; DXS230;
+                     DXS239; DXS268; DXS269; DXS270; DXS272; MRX85"
+                     /inference="alignment:Splign:1.39.8"
+                     /number=36
+     exon            981652..981822
+                     /gene="DMD"
+                     /gene_synonym="BMD; CMD3B; DXS142; DXS164; DXS206; DXS230;
+                     DXS239; DXS268; DXS269; DXS270; DXS272; MRX85"
+                     /inference="alignment:Splign:1.39.8"
+                     /number=37
+     exon            996082..996204
+                     /gene="DMD"
+                     /gene_synonym="BMD; CMD3B; DXS142; DXS164; DXS206; DXS230;
+                     DXS239; DXS268; DXS269; DXS270; DXS272; MRX85"
+                     /inference="alignment:Splign:1.39.8"
+                     /number=38
+     exon            998530..998667
+                     /gene="DMD"
+                     /gene_synonym="BMD; CMD3B; DXS142; DXS164; DXS206; DXS230;
+                     DXS239; DXS268; DXS269; DXS270; DXS272; MRX85"
+                     /inference="alignment:Splign:1.39.8"
+                     /number=39
+     exon            1001324..1001476
+                     /gene="DMD"
+                     /gene_synonym="BMD; CMD3B; DXS142; DXS164; DXS206; DXS230;
+                     DXS239; DXS268; DXS269; DXS270; DXS272; MRX85"
+                     /inference="alignment:Splign:1.39.8"
+                     /number=40
+     exon            1002328..1002510
+                     /gene="DMD"
+                     /gene_synonym="BMD; CMD3B; DXS142; DXS164; DXS206; DXS230;
+                     DXS239; DXS268; DXS269; DXS270; DXS272; MRX85"
+                     /inference="alignment:Splign:1.39.8"
+                     /number=41
+     exon            1034334..1034528
+                     /gene="DMD"
+                     /gene_synonym="BMD; CMD3B; DXS142; DXS164; DXS206; DXS230;
+                     DXS239; DXS268; DXS269; DXS270; DXS272; MRX85"
+                     /inference="alignment:Splign:1.39.8"
+                     /number=42
+     exon            1056909..1057081
+                     /gene="DMD"
+                     /gene_synonym="BMD; CMD3B; DXS142; DXS164; DXS206; DXS230;
+                     DXS239; DXS268; DXS269; DXS270; DXS272; MRX85"
+                     /inference="alignment:Splign:1.39.8"
+                     /number=43
+     exon            1127547..1127694
+                     /gene="DMD"
+                     /gene_synonym="BMD; CMD3B; DXS142; DXS164; DXS206; DXS230;
+                     DXS239; DXS268; DXS269; DXS270; DXS272; MRX85"
+                     /inference="alignment:Splign:1.39.8"
+                     /number=44
+     gene            complement(1137675..1138844)
+                     /gene="NPM1P8"
+                     /note="nucleophosmin 1 pseudogene 8"
+                     /pseudo
+                     /db_xref="GeneID:100130233"
+                     /db_xref="HGNC:HGNC:7928"
+     gene            complement(1242434..1242545)
+                     /gene="RNA5SP501"
+                     /gene_synonym="RN5S501"
+                     /note="RNA, 5S ribosomal pseudogene 501"
+                     /pseudo
+                     /db_xref="GeneID:100873552"
+                     /db_xref="HGNC:HGNC:43401"
+     exon            1376096..1376271
+                     /gene="DMD"
+                     /gene_synonym="BMD; CMD3B; DXS142; DXS164; DXS206; DXS230;
+                     DXS239; DXS268; DXS269; DXS270; DXS272; MRX85"
+                     /inference="alignment:Splign:1.39.8"
+                     /number=45
+     exon            1412383..1412530
+                     /gene="DMD"
+                     /gene_synonym="BMD; CMD3B; DXS142; DXS164; DXS206; DXS230;
+                     DXS239; DXS268; DXS269; DXS270; DXS272; MRX85"
+                     /inference="alignment:Splign:1.39.8"
+                     /number=46
+     exon            1414865..1415014
+                     /gene="DMD"
+                     /gene_synonym="BMD; CMD3B; DXS142; DXS164; DXS206; DXS230;
+                     DXS239; DXS268; DXS269; DXS270; DXS272; MRX85"
+                     /inference="alignment:Splign:1.39.8"
+                     /number=47
+     exon            1469237..1469422
+                     /gene="DMD"
+                     /gene_synonym="BMD; CMD3B; DXS142; DXS164; DXS206; DXS230;
+                     DXS239; DXS268; DXS269; DXS270; DXS272; MRX85"
+                     /inference="alignment:Splign:1.39.8"
+                     /number=48
+     misc_difference 1469420
+                     /gene="DMD"
+                     /gene_synonym="BMD; CMD3B; DXS142; DXS164; DXS206; DXS230;
+                     DXS239; DXS268; DXS269; DXS270; DXS272; MRX85"
+                     /note="This sequence differs from the reference genome
+                     assembly (NCBI Build 36) at this position. A was replaced
+                     by C to represent the standard allele identified by
+                     alignment of public cDNAs."
+                     /replace="a"
+     exon            1507791..1507892
+                     /gene="DMD"
+                     /gene_synonym="BMD; CMD3B; DXS142; DXS164; DXS206; DXS230;
+                     DXS239; DXS268; DXS269; DXS270; DXS272; MRX85"
+                     /inference="alignment:Splign:1.39.8"
+                     /number=49
+     exon            1524527..1524635
+                     /gene="DMD"
+                     /gene_synonym="BMD; CMD3B; DXS142; DXS164; DXS206; DXS230;
+                     DXS239; DXS268; DXS269; DXS270; DXS272; MRX85"
+                     /inference="alignment:Splign:1.39.8"
+                     /number=50
+     exon            1570418..1570650
+                     /gene="DMD"
+                     /gene_synonym="BMD; CMD3B; DXS142; DXS164; DXS206; DXS230;
+                     DXS239; DXS268; DXS269; DXS270; DXS272; MRX85"
+                     /inference="alignment:Splign:1.39.8"
+                     /number=51
+     exon            1614862..1614979
+                     /gene="DMD"
+                     /gene_synonym="BMD; CMD3B; DXS142; DXS164; DXS206; DXS230;
+                     DXS239; DXS268; DXS269; DXS270; DXS272; MRX85"
+                     /inference="alignment:Splign:1.39.8"
+                     /number=52
+     exon            1665024..1665235
+                     /gene="DMD"
+                     /gene_synonym="BMD; CMD3B; DXS142; DXS164; DXS206; DXS230;
+                     DXS239; DXS268; DXS269; DXS270; DXS272; MRX85"
+                     /inference="alignment:Splign:1.39.8"
+                     /number=53
+     exon            1686466..1686620
+                     /gene="DMD"
+                     /gene_synonym="BMD; CMD3B; DXS142; DXS164; DXS206; DXS230;
+                     DXS239; DXS268; DXS269; DXS270; DXS272; MRX85"
+                     /inference="alignment:Splign:1.39.8"
+                     /number=54
+     exon            1716748..1716937
+                     /gene="DMD"
+                     /gene_synonym="BMD; CMD3B; DXS142; DXS164; DXS206; DXS230;
+                     DXS239; DXS268; DXS269; DXS270; DXS272; MRX85"
+                     /inference="alignment:Splign:1.39.8"
+                     /number=55
+     exon            1837157..1837329
+                     /gene="DMD"
+                     /gene_synonym="BMD; CMD3B; DXS142; DXS164; DXS206; DXS230;
+                     DXS239; DXS268; DXS269; DXS270; DXS272; MRX85"
+                     /inference="alignment:Splign:1.39.8"
+                     /number=56
+     exon            1847666..1847822
+                     /gene="DMD"
+                     /gene_synonym="BMD; CMD3B; DXS142; DXS164; DXS206; DXS230;
+                     DXS239; DXS268; DXS269; DXS270; DXS272; MRX85"
+                     /inference="alignment:Splign:1.39.8"
+                     /number=57
+     exon            1865507..1865627
+                     /gene="DMD"
+                     /gene_synonym="BMD; CMD3B; DXS142; DXS164; DXS206; DXS230;
+                     DXS239; DXS268; DXS269; DXS270; DXS272; MRX85"
+                     /inference="alignment:Splign:1.39.8"
+                     /number=58
+     exon            1866236..1866504
+                     /gene="DMD"
+                     /gene_synonym="BMD; CMD3B; DXS142; DXS164; DXS206; DXS230;
+                     DXS239; DXS268; DXS269; DXS270; DXS272; MRX85"
+                     /inference="alignment:Splign:1.39.8"
+                     /number=59
+     misc_difference 1866377
+                     /gene="DMD"
+                     /gene_synonym="BMD; CMD3B; DXS142; DXS164; DXS206; DXS230;
+                     DXS239; DXS268; DXS269; DXS270; DXS272; MRX85"
+                     /note="This sequence differs from the reference genome
+                     assembly (NCBI Build 36) at this position. G was replaced
+                     by A to represent the standard allele identified by
+                     alignment of public cDNAs."
+                     /replace="g"
+     exon            1899983..1900129
+                     /gene="DMD"
+                     /gene_synonym="BMD; CMD3B; DXS142; DXS164; DXS206; DXS230;
+                     DXS239; DXS268; DXS269; DXS270; DXS272; MRX85"
+                     /inference="alignment:Splign:1.39.8"
+                     /number=60
+     exon            1995976..1996054
+                     /gene="DMD"
+                     /gene_synonym="BMD; CMD3B; DXS142; DXS164; DXS206; DXS230;
+                     DXS239; DXS268; DXS269; DXS270; DXS272; MRX85"
+                     /inference="alignment:Splign:1.39.8"
+                     /number=61
+     gene            complement(1996314..1996418)
+                     /gene="RNU6-894P"
+                     /note="RNA, U6 small nuclear 894, pseudogene"
+                     /pseudo
+                     /db_xref="GeneID:106481461"
+                     /db_xref="HGNC:HGNC:47857"
+     exon            2020952..2021012
+                     /gene="DMD"
+                     /gene_synonym="BMD; CMD3B; DXS142; DXS164; DXS206; DXS230;
+                     DXS239; DXS268; DXS269; DXS270; DXS272; MRX85"
+                     /inference="alignment:Splign:1.39.8"
+                     /number=62
+     exon            2083594..2083655
+                     /gene="DMD"
+                     /gene_synonym="BMD; CMD3B; DXS142; DXS164; DXS206; DXS230;
+                     DXS239; DXS268; DXS269; DXS270; DXS272; MRX85"
+                     /inference="alignment:Splign:1.39.8"
+                     /number=63
+     exon            2121489..2121563
+                     /gene="DMD"
+                     /gene_synonym="BMD; CMD3B; DXS142; DXS164; DXS206; DXS230;
+                     DXS239; DXS268; DXS269; DXS270; DXS272; MRX85"
+                     /inference="alignment:Splign:1.39.8"
+                     /number=64
+     exon            2134911..2135112
+                     /gene="DMD"
+                     /gene_synonym="BMD; CMD3B; DXS142; DXS164; DXS206; DXS230;
+                     DXS239; DXS268; DXS269; DXS270; DXS272; MRX85"
+                     /inference="alignment:Splign:1.39.8"
+                     /number=65
+     exon            2137943..2138028
+                     /gene="DMD"
+                     /gene_synonym="BMD; CMD3B; DXS142; DXS164; DXS206; DXS230;
+                     DXS239; DXS268; DXS269; DXS270; DXS272; MRX85"
+                     /inference="alignment:Splign:1.39.8"
+                     /number=66
+     exon            2140492..2140649
+                     /gene="DMD"
+                     /gene_synonym="BMD; CMD3B; DXS142; DXS164; DXS206; DXS230;
+                     DXS239; DXS268; DXS269; DXS270; DXS272; MRX85"
+                     /inference="alignment:Splign:1.39.8"
+                     /number=67
+     exon            2161706..2161872
+                     /gene="DMD"
+                     /gene_synonym="BMD; CMD3B; DXS142; DXS164; DXS206; DXS230;
+                     DXS239; DXS268; DXS269; DXS270; DXS272; MRX85"
+                     /inference="alignment:Splign:1.39.8"
+                     /number=68
+     exon            2164129..2164240
+                     /gene="DMD"
+                     /gene_synonym="BMD; CMD3B; DXS142; DXS164; DXS206; DXS230;
+                     DXS239; DXS268; DXS269; DXS270; DXS272; MRX85"
+                     /inference="alignment:Splign:1.39.8"
+                     /number=69
+     exon            2165805..2165941
+                     /gene="DMD"
+                     /gene_synonym="BMD; CMD3B; DXS142; DXS164; DXS206; DXS230;
+                     DXS239; DXS268; DXS269; DXS270; DXS272; MRX85"
+                     /inference="alignment:Splign:1.39.8"
+                     /number=70
+     exon            2166640..2166678
+                     /gene="DMD"
+                     /gene_synonym="BMD; CMD3B; DXS142; DXS164; DXS206; DXS230;
+                     DXS239; DXS268; DXS269; DXS270; DXS272; MRX85"
+                     /inference="alignment:Splign:1.39.8"
+                     /number=71
+     exon            2171006..2171071
+                     /gene="DMD"
+                     /gene_synonym="BMD; CMD3B; DXS142; DXS164; DXS206; DXS230;
+                     DXS239; DXS268; DXS269; DXS270; DXS272; MRX85"
+                     /inference="alignment:Splign:1.39.8"
+                     /number=72
+     exon            2172197..2172262
+                     /gene="DMD"
+                     /gene_synonym="BMD; CMD3B; DXS142; DXS164; DXS206; DXS230;
+                     DXS239; DXS268; DXS269; DXS270; DXS272; MRX85"
+                     /inference="alignment:Splign:1.39.8"
+                     /number=73
+     exon            2175009..2175167
+                     /gene="DMD"
+                     /gene_synonym="BMD; CMD3B; DXS142; DXS164; DXS206; DXS230;
+                     DXS239; DXS268; DXS269; DXS270; DXS272; MRX85"
+                     /inference="alignment:Splign:1.39.8"
+                     /number=74
+     exon            2197092..2197335
+                     /gene="DMD"
+                     /gene_synonym="BMD; CMD3B; DXS142; DXS164; DXS206; DXS230;
+                     DXS239; DXS268; DXS269; DXS270; DXS272; MRX85"
+                     /inference="alignment:Splign:1.39.8"
+                     /number=75
+     exon            2198196..2198319
+                     /gene="DMD"
+                     /gene_synonym="BMD; CMD3B; DXS142; DXS164; DXS206; DXS230;
+                     DXS239; DXS268; DXS269; DXS270; DXS272; MRX85"
+                     /inference="alignment:Splign:1.39.8"
+                     /number=76
+     exon            2210416..2210508
+                     /gene="DMD"
+                     /gene_synonym="BMD; CMD3B; DXS142; DXS164; DXS206; DXS230;
+                     DXS239; DXS268; DXS269; DXS270; DXS272; MRX85"
+                     /inference="alignment:Splign:1.39.8"
+                     /number=77
+     exon            2217937..2217968
+                     /gene="DMD"
+                     /gene_synonym="BMD; CMD3B; DXS142; DXS164; DXS206; DXS230;
+                     DXS239; DXS268; DXS269; DXS270; DXS272; MRX85"
+                     /inference="alignment:Splign:1.39.8"
+                     /number=78
+     exon            2222680..2225382
+                     /gene="DMD"
+                     /gene_synonym="BMD; CMD3B; DXS142; DXS164; DXS206; DXS230;
+                     DXS239; DXS268; DXS269; DXS270; DXS272; MRX85"
+                     /inference="alignment:Splign:1.39.8"
+                     /number=79
+ORIGIN      
+//
+
